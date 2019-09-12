@@ -21,7 +21,7 @@ img {
     width: 550px;
 }
 div{
-    height: 100px;
+    min-height: 100px;
     padding: 30px;
 }
 #red {
